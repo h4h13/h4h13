@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with Android MediaBrowserServiceCompat
 - 💬 Ask me about Android, Flutterm, PC Games
 - 📫 How to reach me: @h4h13
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Him/His
+- ⚡ Fun fact: Code every day
