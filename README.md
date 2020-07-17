@@ -1,11 +1,11 @@
 ### Hemanth S 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Retro Music Player
+- 🌱 I’m currently learning Animated Vector Drawables
+- 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Android MediaBrowserServiceCompat
-- 💬 Ask me about Android, Flutterm,PC Games
+- 💬 Ask me about Android, Flutterm, PC Games
 - 📫 How to reach me: @h4h13
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
